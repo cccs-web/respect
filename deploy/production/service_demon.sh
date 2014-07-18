@@ -7,4 +7,4 @@ source /home/respect/.virtualenvs/production/bin/postactivate
 
 cd /home/respect/production
 
-exec gunicorn -c /home/respect/production/_deploy/gunicorn.conf.py respect.wsgi:application
+exec gunicorn -c /home/respect/production/deploy/gunicorn.conf.py respect.wsgi:application
