@@ -1,0 +1,2 @@
+Mezzanine==3.1.9
+ipython==2.1.0
