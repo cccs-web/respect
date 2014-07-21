@@ -2,3 +2,4 @@ Mezzanine==3.1.9
 ipython==2.1.0
 psycopg2==2.5.3
 gunicorn==19.0.0
+mezzanine-slides==2.0.1
