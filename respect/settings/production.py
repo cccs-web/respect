@@ -12,7 +12,7 @@ DATABASES = {
         "PORT": ""}}
 
 SITE_TITLE = 'The 100% RESPECT! Campaign'
-SITE_TAGLINE = '100% RESPECT! for 100% of the People, 100% of the Time'
+SITE_TAGLINE = ''
 
 ###################
 # DEPLOY SETTINGS #
