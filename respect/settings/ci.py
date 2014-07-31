@@ -2,7 +2,7 @@ from .includes.common import *
 
 DEBUG = True
 
-ALLOWED_HOSTS.append('respect_ci.crossculturalconsult.com')
+ALLOWED_HOSTS.append(u'respect_ci.crossculturalconsult.com')
 
 DATABASES = {
     "default": {
