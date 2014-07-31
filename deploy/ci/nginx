@@ -1,6 +1,6 @@
 server {
     listen       80;
-    server_name  respect_ci.crossculturalconsult.com www.respect_ci.crossculturalconsult.com;
+    server_name  respect-ci.crossculturalconsult.com www.respect-ci.crossculturalconsult.com;
 
     access_log   /var/log/nginx/respect_ci.com.access.log;
     error_log    /var/log/nginx/respect_ci.com.error.log;
