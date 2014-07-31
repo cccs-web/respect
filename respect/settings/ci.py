@@ -2,6 +2,8 @@ from .includes.common import *
 
 DEBUG = True
 
+ALLOWED_HOSTS.append('respect_ci.crossculturalconsult.com')
+
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql_psycopg2",
