@@ -22,5 +22,5 @@ SITE_TAGLINE = None
 
 GUNICORN_BIND = "127.0.0.1:8625"
 PROCESS_USER = 'respect'
-PROCESS_NAME = 'respect_production'
-VIRTUALENV = 'production'
+PROCESS_NAME = 'respect_ci'
+VIRTUALENV = 'ci'
