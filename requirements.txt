@@ -3,3 +3,4 @@ ipython==2.1.0
 psycopg2==2.5.3
 gunicorn==19.0.0
 -e git://github.com/pwhipp/mezzanine-slides.git#egg=mezzanine-slides
+setproctitle==1.1.8
