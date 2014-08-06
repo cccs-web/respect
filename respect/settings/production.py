@@ -11,8 +11,8 @@ DATABASES = {
         "HOST": "",
         "PORT": ""}}
 
-SITE_TITLE = 'The 100% Respect Campaign'
-SITE_TAGLINE = None
+SITE_TITLE = 'The 100% RESPECT! Campaign'
+SITE_TAGLINE = ''
 
 ###################
 # DEPLOY SETTINGS #
